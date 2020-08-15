@@ -1,0 +1,14 @@
+Partlist exported from /home/breno/Github/RobotSwarm-ObstacleAvoidance/eagle/ObstacleAvoidance/main.sch at 15/08/20 18:38
+
+Qty Value                  Device                 Package                    Parts         Description                       MF MPN OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+1                          MA05-2                 MA05-2                     SV2           PIN HEADER                               unknown    unknown   14                    
+1   -L7805                 -L7805                 L7805                      U$7                                                                                               
+1   0.1uF                  C2,5-3                 C2.5-3                     C2            CAPACITOR                                                     38                    
+1   1k                     R-EU_0207/10           0207/10                    R1            RESISTOR, European symbol                                     81         R          
+1   5k                     R-EU_0207/10           0207/10                    R2            RESISTOR, European symbol                                     81         R          
+1   ESP32DEVKITV1          ESP32DEVKITV1          ESP32-DEVKITV1             U$1                                                                                               
+2   JST-XH-02-PIN-LONG-PAD JST-XH-02-PIN-LONG-PAD JST-XH-02-PACKAGE-LONG-PAD X1, X2        JST XH Connector 2 Pin                                                              
+1   JST-XH-04-PIN-LONG-PAD JST-XH-04-PIN-LONG-PAD JST-XH-04-PACKAGE-LONG-PAD X3            JST XH Connector 2 Pin                                                              
+1   L293D                  L293D                  DIL16                      IC1           PUSH-PULL 4 CHANNEL DRIVER                                                          
+1   SWITCH-6PINS-2MM       SWITCH-6PINS-2MM       SWITCH-6PINS-2MM           U$4                                                                                               
+3   ULTRASONIC-HC-SR04#V   ULTRASONIC-HC-SR04#V   ULTRASONIC-HC-SR04#V       U$2, U$3, U$8 Ultrasonic Ranging Module HC-SR04                                                   
